@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Update meta description -->
+    <meta name="description" content="Update">
+    <title>The Beginners Guide to Houseplants</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<header><h1>The Beginners Guide to Houseplants</h1></header>
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="basicinfo.html">Basic Information</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="troubleshooting.html">Troubleshooting</a></li>
+    </ul>
+</nav>
+<div id="wrapper">
+
+<main>
+    <h2>Troubleshooting Tips</h2>
+    <div id="tscontainer">
+<div id="tips">
+    <p>Houseplants can be tricky to care for as a beginner since there are many variables that can affect the plant's health.
+    Below are a couple tips to help you identify and troubleshoot common houseplant problems</p>
+
+        Leaves yellowing?<br>
+        There a couple potential reasons this could be happening. Too much water, not enough water, or even just the natural aging of the older leaves.<br><br>
+
+        Tiny gnats flying around?<br>
+        Try adding cinnamon to the top of the soil and watering less and from the bottom.<br>
+        Capture the gnats by leaving out a small dish of water with dish soap and apple cider vinegar mixed in!<br><br>
+
+        No new leaves growing?<br>
+        This could be caused by a lack a light. While in the winter this is typical, for the rest of the year, try moving the plant to a place with more sunlight.<br><br>
+
+        Soil always dry?<br>
+        Your plant might be ready to be repotted! Take a peak at the bottom of your pot, if you can see the roots coming out of the drainage hole, time to repot!<br>
+</div>
+        <div id="tipsimage">
+       <img src="final_project_contact_page_image.png" alt="contact page image">
+        </div>
+    </div>
+
+
+    <h3>Need houseplant advice?</h3>
+    <p>Submit your questions below! First select a category and then complete the form.</p>
+    <form method="post">
+
+        <label for="category">*Category</label>
+        <select size="1" name="category" id="category" required="required">
+            <option>Choose problem category</option>
+            <option value="soil">Soil</option>
+            <option value="lighting">Lighting</option>
+            <option value="plantid">Plant Id</option>
+            <option value="pests">Pests</option>
+            <option value="other">Other</option>
+        </select>
+
+        <!-- Labels for ADA Accessibility -->
+
+
+        <label for="Name">*Name:</label>
+        <input type="text" name="Name" id="Name" required="required">
+
+        <label for="Email">*Email:</label>
+        <input type="Email" name="email" id="Email" required="required">
+
+        <label for="questions">*Questions:</label>
+        <textarea name="questions" id="questions" required="required" rows="5" cols="25"></textarea><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</main>
+
+<footer>
+    Copyright &copy;2021 The Beginners Guide to Houseplants<br>
+    <a href="privacy.html">Our Privacy Policy</a>
+</footer>
+</div>
+</body>
+</html>
