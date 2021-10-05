@@ -71,6 +71,12 @@ form {
     margin: 1em;
 }
 
+img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+
 
 
 @media (min-width: 600px) {
