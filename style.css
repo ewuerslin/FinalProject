@@ -64,6 +64,8 @@ a {
 footer {
     text-align: center;
     margin: 1em;
+    font-style: italic;
+    font-size: small;
 }
 
 form {
@@ -85,10 +87,7 @@ img {
     max-width: 100%;
 }
 
-footer {
-    font-style: italic;
-    font-size: small;
-}
+
 
 .button {
     text-transform: uppercase;
