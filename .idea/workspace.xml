@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85753045-b72b-48eb-8c20-1a6da13c10a1" name="Changes" comment="seo updates">
+    <list default="true" id="85753045-b72b-48eb-8c20-1a6da13c10a1" name="Changes" comment="seo updates 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicinfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/basicinfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/houseplantgallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/troubleshooting.html" beforeDir="false" afterPath="$PROJECT_DIR$/troubleshooting.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
       <updated>1632797902656</updated>
       <workItem from="1632797903870" duration="19000" />
       <workItem from="1632960005409" duration="229000" />
-      <workItem from="1632960258307" duration="55721000" />
+      <workItem from="1632960258307" duration="56231000" />
     </task>
     <task id="LOCAL-00001" summary="second updates">
       <created>1633392320471</created>
@@ -80,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633484810461</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="seo updates">
+      <created>1633486430275</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633486430275</updated>
+    </task>
+    <task id="LOCAL-00006" summary="seo updates 2">
+      <created>1633486448005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633486448005</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +111,7 @@
     <MESSAGE value="second updates" />
     <MESSAGE value="Added second half of images" />
     <MESSAGE value="seo updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="seo updates" />
+    <MESSAGE value="seo updates 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="seo updates 2" />
   </component>
 </project>

@@ -94,9 +94,10 @@ img {
     border: 2px solid #4b5a30;
     text-align: center;
     padding: 10px;
-
-
+    font-family: "Arial Black", Arial, sans-serif;
+    color: #819c53;
 }
+
 
 .homepagesection {
     text-align: center;
